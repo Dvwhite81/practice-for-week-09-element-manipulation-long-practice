@@ -1,0 +1,22 @@
+body {
+    background-color: cyan;
+}
+
+.name {
+    color: darkblue;
+    text-align: center;
+}
+
+.my-details {
+    border: 5px solid darkblue;
+    padding: 10px 20px;
+}
+
+.detail {
+    color: darkblue;
+    padding: 10px;
+}
+
+.detail:hover {
+    background-color: goldenrod;
+}
